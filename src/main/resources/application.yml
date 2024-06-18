@@ -1,0 +1,7 @@
+server:
+  port: 8092
+
+twilio:
+  account_sid: ${SID}
+  auth_token: ${TOKEN}
+  trial_number: ${NUMBER}
